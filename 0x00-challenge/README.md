@@ -1,0 +1,1 @@
+the answer for the quesion if that you should check on fizz buzz first 
